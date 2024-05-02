@@ -28,6 +28,15 @@ body {
 
 }
 
+.p2 {
+    color: rgb(206, 201, 211);
+    margin-top: 25%;
+    border-bottom:solid 1px grey;
+    width:30%;
+    height:50px;
+
+}
+
 .div2 {
     color: white;
     margin-top: -15%;
