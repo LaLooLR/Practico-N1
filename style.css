@@ -31,10 +31,7 @@ p{
 .div2 {
     color: white;
     margin-left: 40%;
-    .icon:before {
-        content: "\f002"; /* Representa el carácter Unicode U+F002 */
-        font-family: "Font Awesome"; /* Se asume que Font Awesome está incluido */
-        }
+    
 
 }
 
