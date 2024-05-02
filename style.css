@@ -20,7 +20,7 @@ body {
     font-size: larger;
 
 }
-p{
+.p1 {
     color: rgb(206, 201, 211);
     border-bottom:solid 1px grey;
     width:30%;
